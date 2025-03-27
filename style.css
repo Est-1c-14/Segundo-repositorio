@@ -4,6 +4,17 @@ header {
 body {
     background-color: bisque;
 }
+
+.estudante-div {
+    text-aligh: center;
+    padding: 50px 0;
+}
+ 
+estudante-titulo {
+    text-aligh: center;
+    padding 16px 0
+}
+
 footer {
     background-color: chartreuse;
 }
